@@ -1,0 +1,25 @@
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.692 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.686 
+Method:          ,Least Squares   ,  F-statistic:       ,   129.1 
+Date:            ,Fri, 09 Mar 2018,  Prob (F-statistic):,7.35e-140
+Time:            ,19:47:53        ,  Log-Likelihood:    , -5403.9 
+No. Observations:,   585          ,  AIC:               ,1.083e+04
+Df Residuals:    ,   575          ,  BIC:               ,1.087e+04
+Df Model:        ,    10          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+   ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+x1 ,   -0.0002, 3.91e-05,   -4.496, 0.000,   -0.000,-9.91e-05
+x2 ,    0.0002,    0.000,    2.291, 0.022, 3.56e-05,    0.000
+x3 ,    0.0708,    0.083,    0.850, 0.396,   -0.093,    0.234
+x4 ,    0.0758,    0.059,    1.275, 0.203,   -0.041,    0.193
+x5 ,   -4.1652,   22.184,   -0.188, 0.851,  -47.736,   39.406
+x6 , 9.934e-05, 3.47e-05,    2.865, 0.004, 3.12e-05,    0.000
+x7 , 1.928e-05,    0.000,    0.180, 0.857,   -0.000,    0.000
+x8 ,    0.6748,    0.094,    7.144, 0.000,    0.489,    0.860
+x9 ,    0.0446,    0.075,    0.595, 0.552,   -0.103,    0.192
+x10,    8.7665,   22.603,    0.388, 0.698,  -35.627,   53.160
+Omnibus:      ,947.170,  Durbin-Watson:     ,   1.913  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,709788.701
+Skew:         , 9.173 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,172.655,  Cond. No.          ,3.73e+06  

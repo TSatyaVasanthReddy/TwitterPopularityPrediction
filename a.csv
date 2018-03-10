@@ -1,0 +1,19 @@
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.746 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.744 
+Method:          ,Least Squares   ,  F-statistic:       ,   425.3 
+Date:            ,Fri, 09 Mar 2018,  Prob (F-statistic):,7.31e-171
+Time:            ,19:26:10        ,  Log-Likelihood:    , -6156.5 
+No. Observations:,   584          ,  AIC:               ,1.232e+04
+Df Residuals:    ,   580          ,  BIC:               ,1.234e+04
+Df Model:        ,     4          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+  ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+x1,    0.0002, 1.77e-05,   12.495, 0.000,    0.000,    0.000
+x2,   -0.0003,    0.000,   -1.694, 0.091,   -0.001, 4.13e-05
+x3,   -0.2291,    0.041,   -5.629, 0.000,   -0.309,   -0.149
+x4,   -5.8610,   34.089,   -0.172, 0.864,  -72.814,   61.092
+Omnibus:      ,666.196,  Durbin-Watson:     ,   2.493  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,455064.149
+Skew:         , 4.479 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,139.459,  Cond. No.          ,1.10e+07  
