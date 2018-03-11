@@ -2,8 +2,8 @@
 Dep. Variable:   ,y               ,  R-squared:         ,   0.704 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.697 
 Method:          ,Least Squares   ,  F-statistic:       ,   103.3 
-Date:            ,Fri, 09 Mar 2018,  Prob (F-statistic):,3.30e-108
-Time:            ,19:47:53        ,  Log-Likelihood:    , -2967.9 
+Date:            ,Sat, 10 Mar 2018,  Prob (F-statistic):,3.30e-108
+Time:            ,15:46:51        ,  Log-Likelihood:    , -2967.9 
 No. Observations:,   445          ,  AIC:               ,   5956. 
 Df Residuals:    ,   435          ,  BIC:               ,   5997. 
 Df Model:        ,    10          ,                     ,         
