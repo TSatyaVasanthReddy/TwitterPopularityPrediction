@@ -1,11 +1,15 @@
-1
+
+
+*********1******
+
+
 #gopatriots
                       OLS Regression Results                     
 Dep. Variable:   ,y               ,  R-squared:         ,   0.640
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.636
 Method:          ,Least Squares   ,  F-statistic:       ,   156.8
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.85e-95
-Time:            ,17:00:24        ,  Log-Likelihood:    , -3017.4
+Time:            ,17:33:50        ,  Log-Likelihood:    , -3017.4
 No. Observations:,   446          ,  AIC:               ,   6045.
 Df Residuals:    ,   441          ,  BIC:               ,   6065.
 Df Model:        ,     5          ,                     ,        
@@ -19,13 +23,15 @@ hour_of_day_prev_1_hrs   ,    0.8059,    0.776,    1.039, 0.299,   -0.719,    2.
 Omnibus:      ,367.468,  Durbin-Watson:     ,   1.950  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,138928.429
 Skew:         , 2.406 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,89.330 ,  Cond. No.          ,3.69e+04  #nfl
+Kurtosis:     ,89.330 ,  Cond. No.          ,3.69e+04  
+
+#nfl
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.649 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.646 
 Method:          ,Least Squares   ,  F-statistic:       ,   213.2 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.55e-128
-Time:            ,17:00:24        ,  Log-Likelihood:    , -4535.2 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -4535.2 
 No. Observations:,   582          ,  AIC:               ,   9080. 
 Df Residuals:    ,   577          ,  BIC:               ,   9102. 
 Df Model:        ,     5          ,                     ,         
@@ -39,13 +45,15 @@ hour_of_day_prev_1_hrs   ,    8.3117,    2.239,    3.712, 0.000,    3.914,   12.
 Omnibus:      ,572.321,  Durbin-Watson:     ,   2.324  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,339955.648
 Skew:         , 3.387 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,121.207,  Cond. No.          ,4.32e+05  #sb49
+Kurtosis:     ,121.207,  Cond. No.          ,4.32e+05  
+
+#sb49
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.809 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.807 
 Method:          ,Least Squares   ,  F-statistic:       ,   451.8 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.27e-189
-Time:            ,17:00:24        ,  Log-Likelihood:    , -5325.5 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -5325.5 
 No. Observations:,   540          ,  AIC:               ,1.066e+04
 Df Residuals:    ,   535          ,  BIC:               ,1.068e+04
 Df Model:        ,     5          ,                     ,         
@@ -59,13 +67,15 @@ hour_of_day_prev_1_hrs   ,   -3.2710,   16.549,   -0.198, 0.843,  -35.780,   29.
 Omnibus:      ,1082.599,  Durbin-Watson:     ,   1.682   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,1782567.502
 Skew:         ,14.115  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,283.051 ,  Cond. No.          ,7.52e+06   #gohawks
+Kurtosis:     ,283.051 ,  Cond. No.          ,7.52e+06   
+
+#gohawks
                       OLS Regression Results                     
 Dep. Variable:   ,y               ,  R-squared:         ,   0.502
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.498
 Method:          ,Least Squares   ,  F-statistic:       ,   114.1
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.67e-83
-Time:            ,17:00:25        ,  Log-Likelihood:    , -4742.2
+Time:            ,17:33:50        ,  Log-Likelihood:    , -4742.2
 No. Observations:,   571          ,  AIC:               ,   9494.
 Df Residuals:    ,   566          ,  BIC:               ,   9516.
 Df Model:        ,     5          ,                     ,        
@@ -79,13 +89,15 @@ hour_of_day_prev_1_hrs   ,    9.8854,    3.358,    2.944, 0.003,    3.290,   16.
 Omnibus:      ,900.597,  Durbin-Watson:     ,   2.218  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,751590.465
 Skew:         , 8.584 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,179.906,  Cond. No.          ,2.35e+05  #patriots
+Kurtosis:     ,179.906,  Cond. No.          ,2.35e+05  
+
+#patriots
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.681 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.678 
 Method:          ,Least Squares   ,  F-statistic:       ,   247.9 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.73e-141
-Time:            ,17:00:25        ,  Log-Likelihood:    , -5422.8 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -5422.8 
 No. Observations:,   586          ,  AIC:               ,1.086e+04
 Df Residuals:    ,   581          ,  BIC:               ,1.088e+04
 Df Model:        ,     5          ,                     ,         
@@ -99,13 +111,15 @@ hour_of_day_prev_1_hrs   ,    5.0149,    8.835,    0.568, 0.571,  -12.338,   22.
 Omnibus:      ,879.338,  Durbin-Watson:     ,   1.994  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,693088.103
 Skew:         , 7.774 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,170.762,  Cond. No.          ,7.75e+05  #superbowl
+Kurtosis:     ,170.762,  Cond. No.          ,7.75e+05  
+
+#superbowl
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.805 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.804 
 Method:          ,Least Squares   ,  F-statistic:       ,   478.7 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,5.60e-203
-Time:            ,17:00:25        ,  Log-Likelihood:    , -6078.7 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -6078.7 
 No. Observations:,   584          ,  AIC:               ,1.217e+04
 Df Residuals:    ,   579          ,  BIC:               ,1.219e+04
 Df Model:        ,     5          ,                     ,         
@@ -119,14 +133,183 @@ hour_of_day_prev_1_hrs   ,  -35.9739,   30.074,   -1.196, 0.232,  -95.041,   23.
 Omnibus:      ,1008.516,  Durbin-Watson:     ,   2.317   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,1821035.875
 Skew:         ,10.105  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,275.816 ,  Cond. No.          ,1.10e+07   3
+Kurtosis:     ,275.816 ,  Cond. No.          ,1.10e+07   
+
+*********2******
+
+
+#gopatriots
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.704 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.697 
+Method:          ,Least Squares   ,  F-statistic:       ,   103.3 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.30e-108
+Time:            ,17:33:50        ,  Log-Likelihood:    , -2967.9 
+No. Observations:,   445          ,  AIC:               ,   5956. 
+Df Residuals:    ,   435          ,  BIC:               ,   5997. 
+Df Model:        ,    10          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_2_hrs ,   -0.0017,    0.000,   -8.042, 0.000,   -0.002,   -0.001
+followers_max_prev_2_hrs ,    0.0019,    0.000,    8.990, 0.000,    0.001,    0.002
+tweet_id_count_prev_2_hrs,    0.0888,    0.276,    0.322, 0.747,   -0.453,    0.631
+retweets_sum_prev_2_hrs  ,    1.3768,    0.265,    5.196, 0.000,    0.856,    1.898
+hour_of_day_prev_2_hrs   ,   -0.6285,    1.867,   -0.337, 0.737,   -4.297,    3.040
+followers_sum_prev_1_hrs ,    0.0011,    0.000,    3.287, 0.001,    0.000,    0.002
+followers_max_prev_1_hrs ,   -0.0012,    0.000,   -3.766, 0.000,   -0.002,   -0.001
+tweet_id_count_prev_1_hrs,   -0.5180,    0.292,   -1.776, 0.077,   -1.091,    0.055
+retweets_sum_prev_1_hrs  ,    0.1555,    0.278,    0.560, 0.576,   -0.391,    0.701
+hour_of_day_prev_1_hrs   ,   -0.1498,    1.876,   -0.080, 0.936,   -3.836,    3.537
+Omnibus:      ,401.821,  Durbin-Watson:     ,   1.709  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,204511.500
+Skew:         , 2.775 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,107.876,  Cond. No.          ,1.71e+05  
+
+#nfl
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.696 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.691 
+Method:          ,Least Squares   ,  F-statistic:       ,   130.7 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.69e-140
+Time:            ,17:33:50        ,  Log-Likelihood:    , -4486.0 
+No. Observations:,   581          ,  AIC:               ,   8992. 
+Df Residuals:    ,   571          ,  BIC:               ,   9036. 
+Df Model:        ,    10          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_2_hrs , 8.805e-05, 2.58e-05,    3.416, 0.001, 3.74e-05,    0.000
+followers_max_prev_2_hrs ,-9.153e-05,  3.5e-05,   -2.613, 0.009,   -0.000,-2.27e-05
+tweet_id_count_prev_2_hrs,   -0.6641,    0.131,   -5.089, 0.000,   -0.920,   -0.408
+retweets_sum_prev_2_hrs  ,    0.3366,    0.061,    5.516, 0.000,    0.217,    0.456
+hour_of_day_prev_2_hrs   ,    1.7378,    4.893,    0.355, 0.723,   -7.873,   11.349
+followers_sum_prev_1_hrs ,   8.1e-05, 2.57e-05,    3.151, 0.002, 3.05e-05,    0.000
+followers_max_prev_1_hrs ,-8.761e-05,  3.5e-05,   -2.506, 0.012,   -0.000,-1.89e-05
+tweet_id_count_prev_1_hrs,    0.5748,    0.129,    4.459, 0.000,    0.322,    0.828
+retweets_sum_prev_1_hrs  ,   -0.1816,    0.061,   -2.975, 0.003,   -0.301,   -0.062
+hour_of_day_prev_1_hrs   ,    7.0273,    4.971,    1.414, 0.158,   -2.735,   16.790
+Omnibus:      ,644.059,  Durbin-Watson:     ,   1.740  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,370412.255
+Skew:         , 4.287 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,126.400,  Cond. No.          ,1.84e+06  
+
+#sb49
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.839 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.836 
+Method:          ,Least Squares   ,  F-statistic:       ,   274.9 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.06e-202
+Time:            ,17:33:50        ,  Log-Likelihood:    , -5270.0 
+No. Observations:,   539          ,  AIC:               ,1.056e+04
+Df Residuals:    ,   529          ,  BIC:               ,1.060e+04
+Df Model:        ,    10          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_2_hrs , 3.422e-05, 1.54e-05,    2.218, 0.027, 3.92e-06, 6.45e-05
+followers_max_prev_2_hrs ,    0.0003, 5.23e-05,    4.982, 0.000,    0.000,    0.000
+tweet_id_count_prev_2_hrs,    0.2110,    0.105,    2.006, 0.045,    0.004,    0.417
+retweets_sum_prev_2_hrs  ,   -0.3653,    0.089,   -4.097, 0.000,   -0.540,   -0.190
+hour_of_day_prev_2_hrs   ,  -19.0400,   39.292,   -0.485, 0.628,  -96.228,   58.148
+followers_sum_prev_1_hrs ,-8.281e-06, 1.42e-05,   -0.583, 0.560,-3.62e-05, 1.96e-05
+followers_max_prev_1_hrs ,    0.0001, 5.25e-05,    2.017, 0.044, 2.78e-06,    0.000
+tweet_id_count_prev_1_hrs,    0.9379,    0.109,    8.622, 0.000,    0.724,    1.152
+retweets_sum_prev_1_hrs  ,    0.0974,    0.092,    1.063, 0.288,   -0.083,    0.277
+hour_of_day_prev_1_hrs   ,  -16.2460,   39.561,   -0.411, 0.681,  -93.962,   61.470
+Omnibus:      ,1132.432,  Durbin-Watson:     ,   1.961   
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,2222496.464
+Skew:         ,15.658  ,  Prob(JB):          ,    0.00   
+Kurtosis:     ,316.018 ,  Cond. No.          ,3.69e+07   
+
+#gohawks
+                      OLS Regression Results                     
+Dep. Variable:   ,y               ,  R-squared:         ,   0.523
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.515
+Method:          ,Least Squares   ,  F-statistic:       ,   61.51
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.51e-83
+Time:            ,17:33:50        ,  Log-Likelihood:    , -4721.8
+No. Observations:,   570          ,  AIC:               ,   9464.
+Df Residuals:    ,   560          ,  BIC:               ,   9507.
+Df Model:        ,    10          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_2_hrs , 9.761e-05, 8.75e-05,    1.116, 0.265,-7.42e-05,    0.000
+followers_max_prev_2_hrs ,   -0.0001,    0.000,   -0.866, 0.387,   -0.000,    0.000
+tweet_id_count_prev_2_hrs,   -0.0720,    0.176,   -0.409, 0.683,   -0.418,    0.274
+retweets_sum_prev_2_hrs  ,    0.0642,    0.050,    1.285, 0.199,   -0.034,    0.162
+hour_of_day_prev_2_hrs   ,   -2.3985,    8.611,   -0.279, 0.781,  -19.311,   14.514
+followers_sum_prev_1_hrs ,-2.722e-05, 8.99e-05,   -0.303, 0.762,   -0.000,    0.000
+followers_max_prev_1_hrs ,   -0.0003,    0.000,   -1.525, 0.128,   -0.001, 7.46e-05
+tweet_id_count_prev_1_hrs,    0.8838,    0.194,    4.560, 0.000,    0.503,    1.264
+retweets_sum_prev_1_hrs  ,   -0.1387,    0.051,   -2.746, 0.006,   -0.238,   -0.039
+hour_of_day_prev_1_hrs   ,   11.6320,    8.701,    1.337, 0.182,   -5.458,   28.722
+Omnibus:      ,961.621,  Durbin-Watson:     ,   2.076  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,812451.977
+Skew:         , 9.929 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,186.886,  Cond. No.          ,1.08e+06  
+
+#patriots
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.692 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.686 
+Method:          ,Least Squares   ,  F-statistic:       ,   129.1 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,7.35e-140
+Time:            ,17:33:50        ,  Log-Likelihood:    , -5403.9 
+No. Observations:,   585          ,  AIC:               ,1.083e+04
+Df Residuals:    ,   575          ,  BIC:               ,1.087e+04
+Df Model:        ,    10          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_2_hrs ,   -0.0002, 3.91e-05,   -4.496, 0.000,   -0.000,-9.91e-05
+followers_max_prev_2_hrs ,    0.0002,    0.000,    2.291, 0.022, 3.56e-05,    0.000
+tweet_id_count_prev_2_hrs,    0.0708,    0.083,    0.850, 0.396,   -0.093,    0.234
+retweets_sum_prev_2_hrs  ,    0.0758,    0.059,    1.275, 0.203,   -0.041,    0.193
+hour_of_day_prev_2_hrs   ,   -4.1652,   22.184,   -0.188, 0.851,  -47.736,   39.406
+followers_sum_prev_1_hrs , 9.934e-05, 3.47e-05,    2.865, 0.004, 3.12e-05,    0.000
+followers_max_prev_1_hrs , 1.928e-05,    0.000,    0.180, 0.857,   -0.000,    0.000
+tweet_id_count_prev_1_hrs,    0.6748,    0.094,    7.144, 0.000,    0.489,    0.860
+retweets_sum_prev_1_hrs  ,    0.0446,    0.075,    0.595, 0.552,   -0.103,    0.192
+hour_of_day_prev_1_hrs   ,    8.7665,   22.603,    0.388, 0.698,  -35.627,   53.160
+Omnibus:      ,947.170,  Durbin-Watson:     ,   1.913  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,709788.701
+Skew:         , 9.173 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,172.655,  Cond. No.          ,3.73e+06  
+
+#superbowl
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.852 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.849 
+Method:          ,Least Squares   ,  F-statistic:       ,   328.9 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,5.88e-230
+Time:            ,17:33:50        ,  Log-Likelihood:    , -5989.4 
+No. Observations:,   583          ,  AIC:               ,1.200e+04
+Df Residuals:    ,   573          ,  BIC:               ,1.204e+04
+Df Model:        ,    10          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_2_hrs ,   -0.0003, 2.42e-05,  -11.125, 0.000,   -0.000,   -0.000
+followers_max_prev_2_hrs ,    0.0007,    0.000,    4.591, 0.000,    0.000,    0.001
+tweet_id_count_prev_2_hrs,    1.5586,    0.225,    6.933, 0.000,    1.117,    2.000
+retweets_sum_prev_2_hrs  ,    0.1433,    0.048,    3.003, 0.003,    0.050,    0.237
+hour_of_day_prev_2_hrs   ,  -41.4350,   62.701,   -0.661, 0.509, -164.588,   81.718
+followers_sum_prev_1_hrs ,  7.66e-06, 3.82e-05,    0.201, 0.841,-6.73e-05, 8.26e-05
+followers_max_prev_1_hrs ,    0.0004,    0.000,    2.266, 0.024, 4.81e-05,    0.001
+tweet_id_count_prev_1_hrs,    2.1080,    0.101,   20.973, 0.000,    1.911,    2.305
+retweets_sum_prev_1_hrs  ,   -0.6748,    0.075,   -8.941, 0.000,   -0.823,   -0.527
+hour_of_day_prev_1_hrs   ,   11.3453,   63.736,    0.178, 0.859, -113.839,  136.529
+Omnibus:      ,1297.502,  Durbin-Watson:     ,   1.883   
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,3811287.025
+Skew:         ,17.980  ,  Prob(JB):          ,    0.00   
+Kurtosis:     ,397.466 ,  Cond. No.          ,4.86e+07   
+
+*********3******
+
+
 #gopatriots
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.879 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.875 
 Method:          ,Least Squares   ,  F-statistic:       ,   207.4 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,8.90e-186
-Time:            ,17:00:25        ,  Log-Likelihood:    , -2763.1 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -2763.1 
 No. Observations:,   444          ,  AIC:               ,   5556. 
 Df Residuals:    ,   429          ,  BIC:               ,   5618. 
 Df Model:        ,    15          ,                     ,         
@@ -150,13 +333,15 @@ hour_of_day_prev_1_hrs   ,    1.2953,    1.215,    1.066, 0.287,   -1.094,    3.
 Omnibus:      ,656.130,  Durbin-Watson:     ,   1.890  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,279582.309
 Skew:         , 7.454 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,125.026,  Cond. No.          ,2.34e+05  #nfl
+Kurtosis:     ,125.026,  Cond. No.          ,2.34e+05  
+
+#nfl
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.746 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.739 
 Method:          ,Least Squares   ,  F-statistic:       ,   110.4 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,8.25e-157
-Time:            ,17:00:25        ,  Log-Likelihood:    , -4427.0 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -4427.0 
 No. Observations:,   580          ,  AIC:               ,   8884. 
 Df Residuals:    ,   565          ,  BIC:               ,   8949. 
 Df Model:        ,    15          ,                     ,         
@@ -180,13 +365,15 @@ hour_of_day_prev_1_hrs   ,    5.1631,    4.598,    1.123, 0.262,   -3.869,   14.
 Omnibus:      ,864.148,  Durbin-Watson:     ,   2.077  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,408254.592
 Skew:         , 7.887 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,132.013,  Cond. No.          ,2.63e+06  #sb49
+Kurtosis:     ,132.013,  Cond. No.          ,2.63e+06  
+
+#sb49
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.853 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.849 
 Method:          ,Least Squares   ,  F-statistic:       ,   202.8 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.20e-206
-Time:            ,17:00:25        ,  Log-Likelihood:    , -5235.1 
+Time:            ,17:33:50        ,  Log-Likelihood:    , -5235.1 
 No. Observations:,   538          ,  AIC:               ,1.050e+04
 Df Residuals:    ,   523          ,  BIC:               ,1.056e+04
 Df Model:        ,    15          ,                     ,         
@@ -210,13 +397,15 @@ hour_of_day_prev_1_hrs   ,  -11.1434,   38.015,   -0.293, 0.770,  -85.825,   63.
 Omnibus:      ,1177.321,  Durbin-Watson:     ,   2.098   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,2900275.641
 Skew:         ,17.120  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,361.061 ,  Cond. No.          ,5.26e+07   #gohawks
+Kurtosis:     ,361.061 ,  Cond. No.          ,5.26e+07   
+
+#gohawks
                       OLS Regression Results                     
 Dep. Variable:   ,y               ,  R-squared:         ,   0.564
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.552
 Method:          ,Least Squares   ,  F-statistic:       ,   47.81
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.34e-89
-Time:            ,17:00:26        ,  Log-Likelihood:    , -4688.6
+Time:            ,17:33:51        ,  Log-Likelihood:    , -4688.6
 No. Observations:,   569          ,  AIC:               ,   9407.
 Df Residuals:    ,   554          ,  BIC:               ,   9472.
 Df Model:        ,    15          ,                     ,        
@@ -240,13 +429,15 @@ hour_of_day_prev_1_hrs   ,   10.4408,    8.395,    1.244, 0.214,   -6.049,   26.
 Omnibus:      ,864.205,  Durbin-Watson:     ,   1.937  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,506254.582
 Skew:         , 8.080 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,148.232,  Cond. No.          ,1.53e+06  #patriots
+Kurtosis:     ,148.232,  Cond. No.          ,1.53e+06  
+
+#patriots
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.735 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.728 
 Method:          ,Least Squares   ,  F-statistic:       ,   104.9 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,9.86e-153
-Time:            ,17:00:26        ,  Log-Likelihood:    , -5351.6 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5351.6 
 No. Observations:,   584          ,  AIC:               ,1.073e+04
 Df Residuals:    ,   569          ,  BIC:               ,1.080e+04
 Df Model:        ,    15          ,                     ,         
@@ -270,13 +461,15 @@ hour_of_day_prev_1_hrs   ,    6.6198,   21.142,    0.313, 0.754,  -34.906,   48.
 Omnibus:      ,1000.436,  Durbin-Watson:     ,   1.854   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,1070185.026
 Skew:         ,10.184  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,211.723 ,  Cond. No.          ,5.32e+06   #superbowl
+Kurtosis:     ,211.723 ,  Cond. No.          ,5.32e+06   
+
+#superbowl
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.874 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.871 
 Method:          ,Least Squares   ,  F-statistic:       ,   262.8 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.07e-243
-Time:            ,17:00:26        ,  Log-Likelihood:    , -5931.5 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5931.5 
 No. Observations:,   582          ,  AIC:               ,1.189e+04
 Df Residuals:    ,   567          ,  BIC:               ,1.196e+04
 Df Model:        ,    15          ,                     ,         
@@ -300,14 +493,243 @@ hour_of_day_prev_1_hrs   ,  -19.7423,   59.110,   -0.334, 0.739, -135.843,   96.
 Omnibus:      ,1382.320,  Durbin-Watson:     ,   2.116   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,5603829.649
 Skew:         ,20.909  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,481.891 ,  Cond. No.          ,6.91e+07   5
+Kurtosis:     ,481.891 ,  Cond. No.          ,6.91e+07   
+
+*********4******
+
+
+#gopatriots
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.895 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.890 
+Method:          ,Least Squares   ,  F-statistic:       ,   179.7 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.78e-192
+Time:            ,17:33:51        ,  Log-Likelihood:    , -2726.3 
+No. Observations:,   443          ,  AIC:               ,   5493. 
+Df Residuals:    ,   423          ,  BIC:               ,   5574. 
+Df Model:        ,    20          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_4_hrs ,    0.0002,    0.000,    0.695, 0.488,   -0.000,    0.001
+followers_max_prev_4_hrs ,   -0.0001,    0.000,   -0.585, 0.559,   -0.001,    0.000
+tweet_id_count_prev_4_hrs,   -0.1649,    0.276,   -0.599, 0.550,   -0.707,    0.377
+retweets_sum_prev_4_hrs  ,   -0.2800,    0.170,   -1.645, 0.101,   -0.614,    0.055
+hour_of_day_prev_4_hrs   ,   -0.0375,    1.137,   -0.033, 0.974,   -2.273,    2.198
+followers_sum_prev_3_hrs ,    0.0018,    0.000,    8.099, 0.000,    0.001,    0.002
+followers_max_prev_3_hrs ,   -0.0017,    0.000,   -8.069, 0.000,   -0.002,   -0.001
+tweet_id_count_prev_3_hrs,   -2.5151,    0.199,  -12.619, 0.000,   -2.907,   -2.123
+retweets_sum_prev_3_hrs  ,    1.0995,    0.184,    5.968, 0.000,    0.737,    1.462
+hour_of_day_prev_3_hrs   ,    0.4842,    1.514,    0.320, 0.749,   -2.492,    3.460
+followers_sum_prev_2_hrs ,   -0.0007,    0.000,   -2.769, 0.006,   -0.001,   -0.000
+followers_max_prev_2_hrs ,    0.0009,    0.000,    3.785, 0.000,    0.000,    0.001
+tweet_id_count_prev_2_hrs,   -0.7589,    0.203,   -3.738, 0.000,   -1.158,   -0.360
+retweets_sum_prev_2_hrs  ,    1.0794,    0.242,    4.456, 0.000,    0.603,    1.556
+hour_of_day_prev_2_hrs   ,   -0.3405,    1.517,   -0.224, 0.822,   -3.322,    2.641
+followers_sum_prev_1_hrs ,    0.0031,    0.000,   13.012, 0.000,    0.003,    0.004
+followers_max_prev_1_hrs ,   -0.0029,    0.000,  -12.911, 0.000,   -0.003,   -0.002
+tweet_id_count_prev_1_hrs,   -0.0985,    0.278,   -0.354, 0.724,   -0.646,    0.449
+retweets_sum_prev_1_hrs  ,   -1.9049,    0.227,   -8.405, 0.000,   -2.350,   -1.459
+hour_of_day_prev_1_hrs   ,    1.2198,    1.145,    1.065, 0.287,   -1.031,    3.470
+Omnibus:      ,709.699,  Durbin-Watson:     ,   1.917  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,355484.440
+Skew:         , 8.741 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,140.670,  Cond. No.          ,2.80e+05  
+
+#nfl
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.751 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.742 
+Method:          ,Least Squares   ,  F-statistic:       ,   84.23 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,5.25e-154
+Time:            ,17:33:51        ,  Log-Likelihood:    , -4413.9 
+No. Observations:,   579          ,  AIC:               ,   8868. 
+Df Residuals:    ,   559          ,  BIC:               ,   8955. 
+Df Model:        ,    20          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_4_hrs , -6.88e-06,  2.7e-05,   -0.255, 0.799,-5.99e-05, 4.62e-05
+followers_max_prev_4_hrs , 2.373e-05, 3.61e-05,    0.657, 0.511,-4.72e-05, 9.47e-05
+tweet_id_count_prev_4_hrs,    0.1025,    0.136,    0.752, 0.452,   -0.165,    0.370
+retweets_sum_prev_4_hrs  ,   -0.1159,    0.067,   -1.743, 0.082,   -0.247,    0.015
+hour_of_day_prev_4_hrs   ,   -1.1691,    4.491,   -0.260, 0.795,   -9.990,    7.652
+followers_sum_prev_3_hrs ,   -0.0001, 2.66e-05,   -4.972, 0.000,   -0.000,-7.99e-05
+followers_max_prev_3_hrs ,    0.0002, 3.54e-05,    4.885, 0.000,    0.000,    0.000
+tweet_id_count_prev_3_hrs,    1.1026,    0.126,    8.727, 0.000,    0.854,    1.351
+retweets_sum_prev_3_hrs  ,   -0.4101,    0.062,   -6.634, 0.000,   -0.532,   -0.289
+hour_of_day_prev_3_hrs   ,    0.3907,    6.064,    0.064, 0.949,  -11.520,   12.302
+followers_sum_prev_2_hrs , 9.012e-05, 2.55e-05,    3.530, 0.000,    4e-05,    0.000
+followers_max_prev_2_hrs ,-9.021e-05, 3.47e-05,   -2.602, 0.010,   -0.000,-2.21e-05
+tweet_id_count_prev_2_hrs,   -0.6909,    0.136,   -5.084, 0.000,   -0.958,   -0.424
+retweets_sum_prev_2_hrs  ,    0.3705,    0.062,    6.006, 0.000,    0.249,    0.492
+hour_of_day_prev_2_hrs   ,    0.7385,    6.093,    0.121, 0.904,  -11.229,   12.706
+followers_sum_prev_1_hrs , 6.346e-05, 2.55e-05,    2.488, 0.013, 1.34e-05,    0.000
+followers_max_prev_1_hrs ,-7.014e-05, 3.46e-05,   -2.025, 0.043,   -0.000,-2.09e-06
+tweet_id_count_prev_1_hrs,    0.6059,    0.142,    4.258, 0.000,    0.326,    0.885
+retweets_sum_prev_1_hrs  ,   -0.0956,    0.064,   -1.485, 0.138,   -0.222,    0.031
+hour_of_day_prev_1_hrs   ,    4.1602,    4.630,    0.899, 0.369,   -4.934,   13.254
+Omnibus:      ,882.225,  Durbin-Watson:     ,   2.030  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,443827.203
+Skew:         , 8.233 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,137.632,  Cond. No.          ,3.14e+06  
+
+#sb49
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.863 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.858 
+Method:          ,Least Squares   ,  F-statistic:       ,   163.3 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.76e-208
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5206.9 
+No. Observations:,   537          ,  AIC:               ,1.045e+04
+Df Residuals:    ,   517          ,  BIC:               ,1.054e+04
+Df Model:        ,    20          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_4_hrs ,-5.512e-05, 1.67e-05,   -3.310, 0.001,-8.78e-05,-2.24e-05
+followers_max_prev_4_hrs , 2.759e-05, 6.42e-05,    0.430, 0.667,-9.84e-05,    0.000
+tweet_id_count_prev_4_hrs,    0.3907,    0.143,    2.725, 0.007,    0.109,    0.672
+retweets_sum_prev_4_hrs  ,    0.1335,    0.098,    1.359, 0.175,   -0.059,    0.326
+hour_of_day_prev_4_hrs   ,  -14.5368,   36.733,   -0.396, 0.692,  -86.702,   57.628
+followers_sum_prev_3_hrs ,-1.001e-05, 1.76e-05,   -0.570, 0.569,-4.45e-05, 2.45e-05
+followers_max_prev_3_hrs , 7.997e-05, 6.27e-05,    1.276, 0.202,-4.31e-05,    0.000
+tweet_id_count_prev_3_hrs,    0.1702,    0.132,    1.285, 0.199,   -0.090,    0.430
+retweets_sum_prev_3_hrs  ,   -0.1212,    0.103,   -1.173, 0.241,   -0.324,    0.082
+hour_of_day_prev_3_hrs   ,   -5.3365,   49.673,   -0.107, 0.914, -102.923,   92.250
+followers_sum_prev_2_hrs , 3.996e-05, 1.72e-05,    2.325, 0.020,  6.2e-06, 7.37e-05
+followers_max_prev_2_hrs , 3.159e-05, 6.05e-05,    0.522, 0.602,-8.73e-05,    0.000
+tweet_id_count_prev_2_hrs,   -0.2719,    0.122,   -2.233, 0.026,   -0.511,   -0.033
+retweets_sum_prev_2_hrs  ,   -0.0861,    0.103,   -0.838, 0.402,   -0.288,    0.116
+hour_of_day_prev_2_hrs   ,    6.9253,   49.735,    0.139, 0.889,  -90.781,  104.632
+followers_sum_prev_1_hrs ,   -0.0001, 1.87e-05,   -5.431, 0.000,   -0.000,-6.48e-05
+followers_max_prev_1_hrs ,    0.0003, 7.07e-05,    4.389, 0.000,    0.000,    0.000
+tweet_id_count_prev_1_hrs,    0.7352,    0.116,    6.327, 0.000,    0.507,    0.963
+retweets_sum_prev_1_hrs  ,    0.3869,    0.104,    3.710, 0.000,    0.182,    0.592
+hour_of_day_prev_1_hrs   ,  -12.3560,   37.097,   -0.333, 0.739,  -85.235,   60.523
+Omnibus:      ,1217.811,  Durbin-Watson:     ,   1.952   
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,3576948.412
+Skew:         ,18.562  ,  Prob(JB):          ,    0.00   
+Kurtosis:     ,401.102 ,  Cond. No.          ,6.27e+07   
+
+#gohawks
+                      OLS Regression Results                     
+Dep. Variable:   ,y               ,  R-squared:         ,   0.590
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.575
+Method:          ,Least Squares   ,  F-statistic:       ,   39.37
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.49e-92
+Time:            ,17:33:51        ,  Log-Likelihood:    , -4663.8
+No. Observations:,   568          ,  AIC:               ,   9368.
+Df Residuals:    ,   548          ,  BIC:               ,   9454.
+Df Model:        ,    20          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_4_hrs ,   -0.0004, 8.79e-05,   -4.145, 0.000,   -0.001,   -0.000
+followers_max_prev_4_hrs ,    0.0005,    0.000,    3.366, 0.001,    0.000,    0.001
+tweet_id_count_prev_4_hrs,    0.2921,    0.187,    1.558, 0.120,   -0.076,    0.660
+retweets_sum_prev_4_hrs  ,    0.1064,    0.049,    2.192, 0.029,    0.011,    0.202
+hour_of_day_prev_4_hrs   ,   -7.0220,    8.269,   -0.849, 0.396,  -23.264,    9.220
+followers_sum_prev_3_hrs ,   -0.0003, 9.15e-05,   -3.087, 0.002,   -0.000,   -0.000
+followers_max_prev_3_hrs ,    0.0001,    0.000,    0.682, 0.496,   -0.000,    0.000
+tweet_id_count_prev_3_hrs,    1.2356,    0.201,    6.150, 0.000,    0.841,    1.630
+retweets_sum_prev_3_hrs  ,   -0.1999,    0.055,   -3.666, 0.000,   -0.307,   -0.093
+hour_of_day_prev_3_hrs   ,    1.4696,   11.245,    0.131, 0.896,  -20.620,   23.559
+followers_sum_prev_2_hrs ,    0.0002, 8.81e-05,    2.727, 0.007, 6.72e-05,    0.000
+followers_max_prev_2_hrs ,   -0.0005,    0.000,   -2.908, 0.004,   -0.001,   -0.000
+tweet_id_count_prev_2_hrs,   -0.6397,    0.200,   -3.206, 0.001,   -1.032,   -0.248
+retweets_sum_prev_2_hrs  ,    0.1608,    0.058,    2.761, 0.006,    0.046,    0.275
+hour_of_day_prev_2_hrs   ,    2.6224,   11.164,    0.235, 0.814,  -19.308,   24.553
+followers_sum_prev_1_hrs ,   -0.0001, 8.67e-05,   -1.445, 0.149,   -0.000,  4.5e-05
+followers_max_prev_1_hrs ,-7.491e-05,    0.000,   -0.443, 0.658,   -0.000,    0.000
+tweet_id_count_prev_1_hrs,    1.2548,    0.191,    6.554, 0.000,    0.879,    1.631
+retweets_sum_prev_1_hrs  ,   -0.2628,    0.055,   -4.817, 0.000,   -0.370,   -0.156
+hour_of_day_prev_1_hrs   ,   11.4997,    8.221,    1.399, 0.162,   -4.649,   27.649
+Omnibus:      ,806.482,  Durbin-Watson:     ,   2.041  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,395042.046
+Skew:         , 7.097 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,131.415,  Cond. No.          ,1.83e+06  
+
+#patriots
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.753 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.744 
+Method:          ,Least Squares   ,  F-statistic:       ,   85.80 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.27e-156
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5321.9 
+No. Observations:,   583          ,  AIC:               ,1.068e+04
+Df Residuals:    ,   563          ,  BIC:               ,1.077e+04
+Df Model:        ,    20          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_4_hrs ,   -0.0002, 3.94e-05,   -6.255, 0.000,   -0.000,   -0.000
+followers_max_prev_4_hrs ,    0.0004,    0.000,    3.976, 0.000,    0.000,    0.001
+tweet_id_count_prev_4_hrs,    0.1458,    0.090,    1.629, 0.104,   -0.030,    0.322
+retweets_sum_prev_4_hrs  ,    0.0195,    0.056,    0.350, 0.727,   -0.090,    0.129
+hour_of_day_prev_4_hrs   ,   -1.0199,   20.086,   -0.051, 0.960,  -40.473,   38.433
+followers_sum_prev_3_hrs ,    0.0003, 4.48e-05,    7.642, 0.000,    0.000,    0.000
+followers_max_prev_3_hrs ,   -0.0005,    0.000,   -4.947, 0.000,   -0.001,   -0.000
+tweet_id_count_prev_3_hrs,   -0.1409,    0.104,   -1.361, 0.174,   -0.344,    0.062
+retweets_sum_prev_3_hrs  ,    0.1933,    0.072,    2.673, 0.008,    0.051,    0.335
+hour_of_day_prev_3_hrs   ,   -6.9334,   27.365,   -0.253, 0.800,  -60.684,   46.817
+followers_sum_prev_2_hrs ,   -0.0002,  4.3e-05,   -5.680, 0.000,   -0.000,   -0.000
+followers_max_prev_2_hrs ,    0.0004,    0.000,    3.770, 0.000,    0.000,    0.001
+tweet_id_count_prev_2_hrs,    0.0745,    0.102,    0.731, 0.465,   -0.126,    0.275
+retweets_sum_prev_2_hrs  ,   -0.2100,    0.077,   -2.725, 0.007,   -0.361,   -0.059
+hour_of_day_prev_2_hrs   ,    6.6903,   27.547,    0.243, 0.808,  -47.418,   60.798
+followers_sum_prev_1_hrs , 2.053e-05, 3.78e-05,    0.543, 0.588,-5.38e-05, 9.48e-05
+followers_max_prev_1_hrs , 3.209e-05,    0.000,    0.313, 0.754,   -0.000,    0.000
+tweet_id_count_prev_1_hrs,    0.8597,    0.091,    9.402, 0.000,    0.680,    1.039
+retweets_sum_prev_1_hrs  ,    0.0732,    0.077,    0.954, 0.341,   -0.078,    0.224
+hour_of_day_prev_1_hrs   ,    6.2951,   20.891,    0.301, 0.763,  -34.739,   47.329
+Omnibus:      ,1048.066,  Durbin-Watson:     ,   2.064   
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,1104104.103
+Skew:         ,11.351  ,  Prob(JB):          ,    0.00   
+Kurtosis:     ,214.982 ,  Cond. No.          ,6.43e+06   
+
+#superbowl
+                      OLS Regression Results                      
+Dep. Variable:   ,y               ,  R-squared:         ,   0.881 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.877 
+Method:          ,Least Squares   ,  F-statistic:       ,   208.1 
+Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.32e-244
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5905.3 
+No. Observations:,   581          ,  AIC:               ,1.185e+04
+Df Residuals:    ,   561          ,  BIC:               ,1.194e+04
+Df Model:        ,    20          ,                     ,         
+Covariance Type: ,nonrobust       ,                     ,         
+                         ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+followers_sum_prev_4_hrs ,   -0.0001, 2.97e-05,   -4.743, 0.000,   -0.000,-8.27e-05
+followers_max_prev_4_hrs ,    0.0005,    0.000,    3.471, 0.001,    0.000,    0.001
+tweet_id_count_prev_4_hrs,    1.6016,    0.297,    5.398, 0.000,    1.019,    2.184
+retweets_sum_prev_4_hrs  ,   -0.2137,    0.055,   -3.861, 0.000,   -0.322,   -0.105
+hour_of_day_prev_4_hrs   ,  -34.2018,   57.068,   -0.599, 0.549, -146.295,   77.891
+followers_sum_prev_3_hrs , 8.405e-05, 4.06e-05,    2.071, 0.039, 4.34e-06,    0.000
+followers_max_prev_3_hrs , 4.801e-06,    0.000,    0.030, 0.976,   -0.000,    0.000
+tweet_id_count_prev_3_hrs,    1.7637,    0.299,    5.895, 0.000,    1.176,    2.351
+retweets_sum_prev_3_hrs  ,   -0.9119,    0.101,   -9.055, 0.000,   -1.110,   -0.714
+hour_of_day_prev_3_hrs   ,   10.8344,   77.254,    0.140, 0.889, -140.908,  162.577
+followers_sum_prev_2_hrs , -2.04e-05, 4.13e-05,   -0.493, 0.622,   -0.000, 6.08e-05
+followers_max_prev_2_hrs ,    0.0003,    0.000,    2.062, 0.040, 1.64e-05,    0.001
+tweet_id_count_prev_2_hrs,    1.0619,    0.253,    4.195, 0.000,    0.565,    1.559
+retweets_sum_prev_2_hrs  ,   -0.4120,    0.093,   -4.412, 0.000,   -0.595,   -0.229
+hour_of_day_prev_2_hrs   ,   -0.5735,   77.166,   -0.007, 0.994, -152.143,  150.996
+followers_sum_prev_1_hrs ,-3.851e-05, 3.68e-05,   -1.045, 0.296,   -0.000, 3.39e-05
+followers_max_prev_1_hrs ,-8.486e-05,    0.000,   -0.530, 0.596,   -0.000,    0.000
+tweet_id_count_prev_1_hrs,    2.4063,    0.110,   21.872, 0.000,    2.190,    2.622
+retweets_sum_prev_1_hrs  ,   -0.6829,    0.082,   -8.303, 0.000,   -0.844,   -0.521
+hour_of_day_prev_1_hrs   ,  -40.7290,   57.881,   -0.704, 0.482, -154.420,   72.962
+Omnibus:      ,1324.280,  Durbin-Watson:     ,   2.045   
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,4294959.385
+Skew:         ,18.995  ,  Prob(JB):          ,    0.00   
+Kurtosis:     ,422.492 ,  Cond. No.          ,8.10e+07   
+
+*********5******
+
+
 #gopatriots
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.908 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.902 
 Method:          ,Least Squares   ,  F-statistic:       ,   164.1 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.68e-198
-Time:            ,17:00:26        ,  Log-Likelihood:    , -2691.5 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -2691.5 
 No. Observations:,   442          ,  AIC:               ,   5433. 
 Df Residuals:    ,   417          ,  BIC:               ,   5535. 
 Df Model:        ,    25          ,                     ,         
@@ -341,13 +763,15 @@ hour_of_day_prev_1_hrs   ,    0.9788,    1.120,    0.874, 0.383,   -1.223,    3.
 Omnibus:      ,720.553,  Durbin-Watson:     ,   2.050  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,366023.821
 Skew:         , 9.062 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,142.807,  Cond. No.          ,3.16e+05  #nfl
+Kurtosis:     ,142.807,  Cond. No.          ,3.16e+05  
+
+#nfl
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.764 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.753 
 Method:          ,Least Squares   ,  F-statistic:       ,   71.51 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.87e-155
-Time:            ,17:00:27        ,  Log-Likelihood:    , -4391.4 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -4391.4 
 No. Observations:,   578          ,  AIC:               ,   8833. 
 Df Residuals:    ,   553          ,  BIC:               ,   8942. 
 Df Model:        ,    25          ,                     ,         
@@ -381,13 +805,15 @@ hour_of_day_prev_1_hrs   ,    2.4322,    4.572,    0.532, 0.595,   -6.548,   11.
 Omnibus:      ,902.376,  Durbin-Watson:     ,   1.869  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,469094.346
 Skew:         , 8.648 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,141.488,  Cond. No.          ,3.53e+06  #sb49
+Kurtosis:     ,141.488,  Cond. No.          ,3.53e+06  
+
+#sb49
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.868 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.862 
 Method:          ,Least Squares   ,  F-statistic:       ,   134.5 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.58e-206
-Time:            ,17:00:32        ,  Log-Likelihood:    , -5188.1 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5188.1 
 No. Observations:,   536          ,  AIC:               ,1.043e+04
 Df Residuals:    ,   511          ,  BIC:               ,1.053e+04
 Df Model:        ,    25          ,                     ,         
@@ -421,13 +847,15 @@ hour_of_day_prev_1_hrs   ,  -18.8589,   36.806,   -0.512, 0.609,  -91.169,   53.
 Omnibus:      ,1192.387,  Durbin-Watson:     ,   2.085   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,3216046.119
 Skew:         ,17.751  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,380.812 ,  Cond. No.          ,6.98e+07   #gohawks
+Kurtosis:     ,380.812 ,  Cond. No.          ,6.98e+07   
+
+#gohawks
                       OLS Regression Results                     
 Dep. Variable:   ,y               ,  R-squared:         ,   0.594
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.575
 Method:          ,Least Squares   ,  F-statistic:       ,   31.74
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.73e-89
-Time:            ,17:00:32        ,  Log-Likelihood:    , -4653.0
+Time:            ,17:33:51        ,  Log-Likelihood:    , -4653.0
 No. Observations:,   567          ,  AIC:               ,   9356.
 Df Residuals:    ,   542          ,  BIC:               ,   9464.
 Df Model:        ,    25          ,                     ,        
@@ -461,13 +889,15 @@ hour_of_day_prev_1_hrs   ,   13.1396,    8.355,    1.573, 0.116,   -3.272,   29.
 Omnibus:      ,798.552,  Durbin-Watson:     ,   1.995  
 Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,366612.377
 Skew:         , 7.007 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,126.780,  Cond. No.          ,2.06e+06  #patriots
+Kurtosis:     ,126.780,  Cond. No.          ,2.06e+06  
+
+#patriots
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.766 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.755 
 Method:          ,Least Squares   ,  F-statistic:       ,   72.79 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.84e-157
-Time:            ,17:00:32        ,  Log-Likelihood:    , -5297.9 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5297.9 
 No. Observations:,   582          ,  AIC:               ,1.065e+04
 Df Residuals:    ,   557          ,  BIC:               ,1.076e+04
 Df Model:        ,    25          ,                     ,         
@@ -501,13 +931,15 @@ hour_of_day_prev_1_hrs   ,   -4.0860,   20.696,   -0.197, 0.844,  -44.737,   36.
 Omnibus:      ,1071.099,  Durbin-Watson:     ,   1.977   
 Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,1278107.965
 Skew:         ,11.896  ,  Prob(JB):          ,    0.00   
-Kurtosis:     ,231.341 ,  Cond. No.          ,7.27e+06   #superbowl
+Kurtosis:     ,231.341 ,  Cond. No.          ,7.27e+06   
+
+#superbowl
                       OLS Regression Results                      
 Dep. Variable:   ,y               ,  R-squared:         ,   0.885 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.880 
 Method:          ,Least Squares   ,  F-statistic:       ,   170.4 
 Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.27e-241
-Time:            ,17:00:33        ,  Log-Likelihood:    , -5886.9 
+Time:            ,17:33:51        ,  Log-Likelihood:    , -5886.9 
 No. Observations:,   580          ,  AIC:               ,1.182e+04
 Df Residuals:    ,   555          ,  BIC:               ,1.193e+04
 Df Model:        ,    25          ,                     ,         
