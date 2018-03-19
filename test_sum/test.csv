@@ -8,8 +8,8 @@
 Dep. Variable:   ,y               ,  R-squared:         ,   0.640
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.636
 Method:          ,Least Squares   ,  F-statistic:       ,   156.8
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.85e-95
-Time:            ,17:33:50        ,  Log-Likelihood:    , -3017.4
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.85e-95
+Time:            ,20:02:51        ,  Log-Likelihood:    , -3017.4
 No. Observations:,   446          ,  AIC:               ,   6045.
 Df Residuals:    ,   441          ,  BIC:               ,   6065.
 Df Model:        ,     5          ,                     ,        
@@ -30,8 +30,8 @@ Kurtosis:     ,89.330 ,  Cond. No.          ,3.69e+04
 Dep. Variable:   ,y               ,  R-squared:         ,   0.649 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.646 
 Method:          ,Least Squares   ,  F-statistic:       ,   213.2 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.55e-128
-Time:            ,17:33:50        ,  Log-Likelihood:    , -4535.2 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.55e-128
+Time:            ,20:02:51        ,  Log-Likelihood:    , -4535.2 
 No. Observations:,   582          ,  AIC:               ,   9080. 
 Df Residuals:    ,   577          ,  BIC:               ,   9102. 
 Df Model:        ,     5          ,                     ,         
@@ -52,8 +52,8 @@ Kurtosis:     ,121.207,  Cond. No.          ,4.32e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.809 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.807 
 Method:          ,Least Squares   ,  F-statistic:       ,   451.8 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.27e-189
-Time:            ,17:33:50        ,  Log-Likelihood:    , -5325.5 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,2.27e-189
+Time:            ,20:02:51        ,  Log-Likelihood:    , -5325.5 
 No. Observations:,   540          ,  AIC:               ,1.066e+04
 Df Residuals:    ,   535          ,  BIC:               ,1.068e+04
 Df Model:        ,     5          ,                     ,         
@@ -74,8 +74,8 @@ Kurtosis:     ,283.051 ,  Cond. No.          ,7.52e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.502
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.498
 Method:          ,Least Squares   ,  F-statistic:       ,   114.1
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.67e-83
-Time:            ,17:33:50        ,  Log-Likelihood:    , -4742.2
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,2.67e-83
+Time:            ,20:02:51        ,  Log-Likelihood:    , -4742.2
 No. Observations:,   571          ,  AIC:               ,   9494.
 Df Residuals:    ,   566          ,  BIC:               ,   9516.
 Df Model:        ,     5          ,                     ,        
@@ -96,8 +96,8 @@ Kurtosis:     ,179.906,  Cond. No.          ,2.35e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.681 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.678 
 Method:          ,Least Squares   ,  F-statistic:       ,   247.9 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.73e-141
-Time:            ,17:33:50        ,  Log-Likelihood:    , -5422.8 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.73e-141
+Time:            ,20:02:51        ,  Log-Likelihood:    , -5422.8 
 No. Observations:,   586          ,  AIC:               ,1.086e+04
 Df Residuals:    ,   581          ,  BIC:               ,1.088e+04
 Df Model:        ,     5          ,                     ,         
@@ -118,8 +118,8 @@ Kurtosis:     ,170.762,  Cond. No.          ,7.75e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.805 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.804 
 Method:          ,Least Squares   ,  F-statistic:       ,   478.7 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,5.60e-203
-Time:            ,17:33:50        ,  Log-Likelihood:    , -6078.7 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,5.60e-203
+Time:            ,20:02:51        ,  Log-Likelihood:    , -6078.7 
 No. Observations:,   584          ,  AIC:               ,1.217e+04
 Df Residuals:    ,   579          ,  BIC:               ,1.219e+04
 Df Model:        ,     5          ,                     ,         
@@ -143,8 +143,8 @@ Kurtosis:     ,275.816 ,  Cond. No.          ,1.10e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.704 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.697 
 Method:          ,Least Squares   ,  F-statistic:       ,   103.3 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.30e-108
-Time:            ,17:33:50        ,  Log-Likelihood:    , -2967.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,3.30e-108
+Time:            ,20:02:51        ,  Log-Likelihood:    , -2967.9 
 No. Observations:,   445          ,  AIC:               ,   5956. 
 Df Residuals:    ,   435          ,  BIC:               ,   5997. 
 Df Model:        ,    10          ,                     ,         
@@ -170,8 +170,8 @@ Kurtosis:     ,107.876,  Cond. No.          ,1.71e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.696 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.691 
 Method:          ,Least Squares   ,  F-statistic:       ,   130.7 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.69e-140
-Time:            ,17:33:50        ,  Log-Likelihood:    , -4486.0 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.69e-140
+Time:            ,20:02:51        ,  Log-Likelihood:    , -4486.0 
 No. Observations:,   581          ,  AIC:               ,   8992. 
 Df Residuals:    ,   571          ,  BIC:               ,   9036. 
 Df Model:        ,    10          ,                     ,         
@@ -197,8 +197,8 @@ Kurtosis:     ,126.400,  Cond. No.          ,1.84e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.839 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.836 
 Method:          ,Least Squares   ,  F-statistic:       ,   274.9 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.06e-202
-Time:            ,17:33:50        ,  Log-Likelihood:    , -5270.0 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,3.06e-202
+Time:            ,20:02:51        ,  Log-Likelihood:    , -5270.0 
 No. Observations:,   539          ,  AIC:               ,1.056e+04
 Df Residuals:    ,   529          ,  BIC:               ,1.060e+04
 Df Model:        ,    10          ,                     ,         
@@ -224,8 +224,8 @@ Kurtosis:     ,316.018 ,  Cond. No.          ,3.69e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.523
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.515
 Method:          ,Least Squares   ,  F-statistic:       ,   61.51
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.51e-83
-Time:            ,17:33:50        ,  Log-Likelihood:    , -4721.8
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.51e-83
+Time:            ,20:02:51        ,  Log-Likelihood:    , -4721.8
 No. Observations:,   570          ,  AIC:               ,   9464.
 Df Residuals:    ,   560          ,  BIC:               ,   9507.
 Df Model:        ,    10          ,                     ,        
@@ -251,8 +251,8 @@ Kurtosis:     ,186.886,  Cond. No.          ,1.08e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.692 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.686 
 Method:          ,Least Squares   ,  F-statistic:       ,   129.1 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,7.35e-140
-Time:            ,17:33:50        ,  Log-Likelihood:    , -5403.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,7.35e-140
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5403.9 
 No. Observations:,   585          ,  AIC:               ,1.083e+04
 Df Residuals:    ,   575          ,  BIC:               ,1.087e+04
 Df Model:        ,    10          ,                     ,         
@@ -278,8 +278,8 @@ Kurtosis:     ,172.655,  Cond. No.          ,3.73e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.852 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.849 
 Method:          ,Least Squares   ,  F-statistic:       ,   328.9 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,5.88e-230
-Time:            ,17:33:50        ,  Log-Likelihood:    , -5989.4 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,5.88e-230
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5989.4 
 No. Observations:,   583          ,  AIC:               ,1.200e+04
 Df Residuals:    ,   573          ,  BIC:               ,1.204e+04
 Df Model:        ,    10          ,                     ,         
@@ -308,8 +308,8 @@ Kurtosis:     ,397.466 ,  Cond. No.          ,4.86e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.879 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.875 
 Method:          ,Least Squares   ,  F-statistic:       ,   207.4 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,8.90e-186
-Time:            ,17:33:50        ,  Log-Likelihood:    , -2763.1 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,8.90e-186
+Time:            ,20:02:52        ,  Log-Likelihood:    , -2763.1 
 No. Observations:,   444          ,  AIC:               ,   5556. 
 Df Residuals:    ,   429          ,  BIC:               ,   5618. 
 Df Model:        ,    15          ,                     ,         
@@ -340,8 +340,8 @@ Kurtosis:     ,125.026,  Cond. No.          ,2.34e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.746 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.739 
 Method:          ,Least Squares   ,  F-statistic:       ,   110.4 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,8.25e-157
-Time:            ,17:33:50        ,  Log-Likelihood:    , -4427.0 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,8.25e-157
+Time:            ,20:02:52        ,  Log-Likelihood:    , -4427.0 
 No. Observations:,   580          ,  AIC:               ,   8884. 
 Df Residuals:    ,   565          ,  BIC:               ,   8949. 
 Df Model:        ,    15          ,                     ,         
@@ -372,8 +372,8 @@ Kurtosis:     ,132.013,  Cond. No.          ,2.63e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.853 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.849 
 Method:          ,Least Squares   ,  F-statistic:       ,   202.8 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.20e-206
-Time:            ,17:33:50        ,  Log-Likelihood:    , -5235.1 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.20e-206
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5235.1 
 No. Observations:,   538          ,  AIC:               ,1.050e+04
 Df Residuals:    ,   523          ,  BIC:               ,1.056e+04
 Df Model:        ,    15          ,                     ,         
@@ -404,8 +404,8 @@ Kurtosis:     ,361.061 ,  Cond. No.          ,5.26e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.564
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.552
 Method:          ,Least Squares   ,  F-statistic:       ,   47.81
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.34e-89
-Time:            ,17:33:51        ,  Log-Likelihood:    , -4688.6
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.34e-89
+Time:            ,20:02:52        ,  Log-Likelihood:    , -4688.6
 No. Observations:,   569          ,  AIC:               ,   9407.
 Df Residuals:    ,   554          ,  BIC:               ,   9472.
 Df Model:        ,    15          ,                     ,        
@@ -436,8 +436,8 @@ Kurtosis:     ,148.232,  Cond. No.          ,1.53e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.735 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.728 
 Method:          ,Least Squares   ,  F-statistic:       ,   104.9 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,9.86e-153
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5351.6 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,9.86e-153
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5351.6 
 No. Observations:,   584          ,  AIC:               ,1.073e+04
 Df Residuals:    ,   569          ,  BIC:               ,1.080e+04
 Df Model:        ,    15          ,                     ,         
@@ -468,8 +468,8 @@ Kurtosis:     ,211.723 ,  Cond. No.          ,5.32e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.874 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.871 
 Method:          ,Least Squares   ,  F-statistic:       ,   262.8 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.07e-243
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5931.5 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.07e-243
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5931.5 
 No. Observations:,   582          ,  AIC:               ,1.189e+04
 Df Residuals:    ,   567          ,  BIC:               ,1.196e+04
 Df Model:        ,    15          ,                     ,         
@@ -503,8 +503,8 @@ Kurtosis:     ,481.891 ,  Cond. No.          ,6.91e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.895 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.890 
 Method:          ,Least Squares   ,  F-statistic:       ,   179.7 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.78e-192
-Time:            ,17:33:51        ,  Log-Likelihood:    , -2726.3 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.78e-192
+Time:            ,20:02:52        ,  Log-Likelihood:    , -2726.3 
 No. Observations:,   443          ,  AIC:               ,   5493. 
 Df Residuals:    ,   423          ,  BIC:               ,   5574. 
 Df Model:        ,    20          ,                     ,         
@@ -540,8 +540,8 @@ Kurtosis:     ,140.670,  Cond. No.          ,2.80e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.751 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.742 
 Method:          ,Least Squares   ,  F-statistic:       ,   84.23 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,5.25e-154
-Time:            ,17:33:51        ,  Log-Likelihood:    , -4413.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,5.25e-154
+Time:            ,20:02:52        ,  Log-Likelihood:    , -4413.9 
 No. Observations:,   579          ,  AIC:               ,   8868. 
 Df Residuals:    ,   559          ,  BIC:               ,   8955. 
 Df Model:        ,    20          ,                     ,         
@@ -577,8 +577,8 @@ Kurtosis:     ,137.632,  Cond. No.          ,3.14e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.863 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.858 
 Method:          ,Least Squares   ,  F-statistic:       ,   163.3 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.76e-208
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5206.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.76e-208
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5206.9 
 No. Observations:,   537          ,  AIC:               ,1.045e+04
 Df Residuals:    ,   517          ,  BIC:               ,1.054e+04
 Df Model:        ,    20          ,                     ,         
@@ -614,8 +614,8 @@ Kurtosis:     ,401.102 ,  Cond. No.          ,6.27e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.590
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.575
 Method:          ,Least Squares   ,  F-statistic:       ,   39.37
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.49e-92
-Time:            ,17:33:51        ,  Log-Likelihood:    , -4663.8
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,2.49e-92
+Time:            ,20:02:52        ,  Log-Likelihood:    , -4663.8
 No. Observations:,   568          ,  AIC:               ,   9368.
 Df Residuals:    ,   548          ,  BIC:               ,   9454.
 Df Model:        ,    20          ,                     ,        
@@ -651,8 +651,8 @@ Kurtosis:     ,131.415,  Cond. No.          ,1.83e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.753 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.744 
 Method:          ,Least Squares   ,  F-statistic:       ,   85.80 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.27e-156
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5321.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,3.27e-156
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5321.9 
 No. Observations:,   583          ,  AIC:               ,1.068e+04
 Df Residuals:    ,   563          ,  BIC:               ,1.077e+04
 Df Model:        ,    20          ,                     ,         
@@ -688,8 +688,8 @@ Kurtosis:     ,214.982 ,  Cond. No.          ,6.43e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.881 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.877 
 Method:          ,Least Squares   ,  F-statistic:       ,   208.1 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,3.32e-244
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5905.3 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,3.32e-244
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5905.3 
 No. Observations:,   581          ,  AIC:               ,1.185e+04
 Df Residuals:    ,   561          ,  BIC:               ,1.194e+04
 Df Model:        ,    20          ,                     ,         
@@ -728,8 +728,8 @@ Kurtosis:     ,422.492 ,  Cond. No.          ,8.10e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.908 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.902 
 Method:          ,Least Squares   ,  F-statistic:       ,   164.1 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.68e-198
-Time:            ,17:33:51        ,  Log-Likelihood:    , -2691.5 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,2.68e-198
+Time:            ,20:02:52        ,  Log-Likelihood:    , -2691.5 
 No. Observations:,   442          ,  AIC:               ,   5433. 
 Df Residuals:    ,   417          ,  BIC:               ,   5535. 
 Df Model:        ,    25          ,                     ,         
@@ -770,8 +770,8 @@ Kurtosis:     ,142.807,  Cond. No.          ,3.16e+05
 Dep. Variable:   ,y               ,  R-squared:         ,   0.764 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.753 
 Method:          ,Least Squares   ,  F-statistic:       ,   71.51 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,2.87e-155
-Time:            ,17:33:51        ,  Log-Likelihood:    , -4391.4 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,2.87e-155
+Time:            ,20:02:52        ,  Log-Likelihood:    , -4391.4 
 No. Observations:,   578          ,  AIC:               ,   8833. 
 Df Residuals:    ,   553          ,  BIC:               ,   8942. 
 Df Model:        ,    25          ,                     ,         
@@ -812,8 +812,8 @@ Kurtosis:     ,141.488,  Cond. No.          ,3.53e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.868 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.862 
 Method:          ,Least Squares   ,  F-statistic:       ,   134.5 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.58e-206
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5188.1 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.58e-206
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5188.1 
 No. Observations:,   536          ,  AIC:               ,1.043e+04
 Df Residuals:    ,   511          ,  BIC:               ,1.053e+04
 Df Model:        ,    25          ,                     ,         
@@ -854,8 +854,8 @@ Kurtosis:     ,380.812 ,  Cond. No.          ,6.98e+07
 Dep. Variable:   ,y               ,  R-squared:         ,   0.594
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.575
 Method:          ,Least Squares   ,  F-statistic:       ,   31.74
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.73e-89
-Time:            ,17:33:51        ,  Log-Likelihood:    , -4653.0
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.73e-89
+Time:            ,20:02:52        ,  Log-Likelihood:    , -4653.0
 No. Observations:,   567          ,  AIC:               ,   9356.
 Df Residuals:    ,   542          ,  BIC:               ,   9464.
 Df Model:        ,    25          ,                     ,        
@@ -896,8 +896,8 @@ Kurtosis:     ,126.780,  Cond. No.          ,2.06e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.766 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.755 
 Method:          ,Least Squares   ,  F-statistic:       ,   72.79 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.84e-157
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5297.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.84e-157
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5297.9 
 No. Observations:,   582          ,  AIC:               ,1.065e+04
 Df Residuals:    ,   557          ,  BIC:               ,1.076e+04
 Df Model:        ,    25          ,                     ,         
@@ -938,8 +938,8 @@ Kurtosis:     ,231.341 ,  Cond. No.          ,7.27e+06
 Dep. Variable:   ,y               ,  R-squared:         ,   0.885 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.880 
 Method:          ,Least Squares   ,  F-statistic:       ,   170.4 
-Date:            ,Sun, 11 Mar 2018,  Prob (F-statistic):,1.27e-241
-Time:            ,17:33:51        ,  Log-Likelihood:    , -5886.9 
+Date:            ,Sat, 17 Mar 2018,  Prob (F-statistic):,1.27e-241
+Time:            ,20:02:52        ,  Log-Likelihood:    , -5886.9 
 No. Observations:,   580          ,  AIC:               ,1.182e+04
 Df Residuals:    ,   555          ,  BIC:               ,1.193e+04
 Df Model:        ,    25          ,                     ,         
