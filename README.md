@@ -1,3 +1,4 @@
+## Read Project 5.pdf
 # TwitterPopularityPrediction
  Twitter, with its public discussion model, is a good platform to perform such analysis. With Twitter’s topic structure in mind, the problem can be stated as: knowing current (and previous) tweet activity for a hashtag, can we predict its tweet activity in the future? More specifically, can we predict if it will become more popular and if so by how much? In this project, we will try to formulate and solve an instance of such problems.
 
